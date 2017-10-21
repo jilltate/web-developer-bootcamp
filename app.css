@@ -1,3 +1,17 @@
 h1 {
-	color: rgb(70, 0, 100);
+	color: rgba(0, 200, 100, 0.8);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid purple;
+}
+
+/*border properties: width, color, style*/
+h4 {
+	background: rgb(255, 100, 80);
+}
+body {
+	background: pink;
+/*	background: url(https://thetomatos.com/wp-content/uploads/2016/05/wood-grain-clipart.jpg);*/
 }
