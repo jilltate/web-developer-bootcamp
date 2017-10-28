@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-family: Times New Roman;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+.top-bottom-border {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.left-right-border {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+
+}
+
+#middle-border {
+	border: 1px solid black;
+}
